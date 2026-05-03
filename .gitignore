@@ -1,0 +1,15 @@
+# Ignorar variables de entorno (¡MUY IMPORTANTE!)
+.env
+
+# Ignorar entornos virtuales de Python
+venv/
+env/
+.venv/
+
+# Ignorar archivos temporales y caché de Python
+__pycache__/
+*.pyc
+
+# Ignorar caché de Mac/Windows
+.DS_Store
+Thumbs.db
